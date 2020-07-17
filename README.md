@@ -1,5 +1,11 @@
 ### Hola! 👋
 
+[@AlbertVilaCalvo](https://twitter.com/AlbertVilaCalvo)
+
+[LinkedIn](https://www.linkedin.com/in/albertvilacalvo/)
+
+[StackOverflow](https://stackoverflow.com/users/4034572/albert-vila-calvo)
+
 <!--
 **AlbertVilaCalvo/AlbertVilaCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
