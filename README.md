@@ -1,6 +1,8 @@
 ### Hola! 👋
 
-[@AlbertVilaCalvo](https://twitter.com/AlbertVilaCalvo)
+[Personal Website](https://albert.vc/)
+
+[Twitter](https://twitter.com/AlbertVilaCalvo)
 
 [LinkedIn](https://www.linkedin.com/in/albertvilacalvo/)
 
