@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-## [⚡ Personal Website ⚡](https://albert.vc/)
+### [⚡ Personal Website ⚡](https://albert.vc/)
 
 <p>
   <a href="https://twitter.com/AlbertVilaCalvo">
