@@ -2,11 +2,17 @@
 
 [Personal Website](https://albert.vc/)
 
-[Twitter](https://twitter.com/AlbertVilaCalvo)
-
-[LinkedIn](https://www.linkedin.com/in/albertvilacalvo/)
-
-[StackOverflow](https://stackoverflow.com/users/4034572/albert-vila-calvo)
+<p>
+  <a href="https://twitter.com/AlbertVilaCalvo" style="margin-right:16px">
+    <img src="img/twitter.svg" alt="Twitter" height="30px" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/albertvilacalvo/" style="margin-right:16px">
+    <img src="img/linkedin.svg" alt="LinkedIn" height="30px" width="30px" />
+  </a>
+  <a href="https://stackoverflow.com/users/4034572/albert-vila-calvo" style="margin-right:8px">
+    <img src="img/stackoverflow.svg" alt="StackOverflow" height="30px" width="30px" />
+  </a>
+</p>
 
 <!--
 **AlbertVilaCalvo/AlbertVilaCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
