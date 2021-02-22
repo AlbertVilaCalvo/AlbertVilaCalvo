@@ -17,8 +17,10 @@ Hi, I'm Albert, an experienced and passionate Android Developer, currently trans
   </a>
 </p>
 
+<br>
+<br>
 
-## Sample code
+## Sample Code
 
 ### React Native
 
@@ -38,7 +40,7 @@ Hi, I'm Albert, an experienced and passionate Android Developer, currently trans
 
 ### Android
 
-- (2020) [Coupons](https://github.com/AlbertVilaCalvo/Android-Coupons-Kotlin-Coroutines) - A simple Android app that I did for a job interview process, using Kotlin, Coroutines and Koin. Unit tests with JUnit.
+- (2020) [Coupons](https://github.com/AlbertVilaCalvo/Android-Coupons-Kotlin-Coroutines) - A simple Android app that I did for a job interview process, using Kotlin, Coroutines for threading and Koin for dependency injection. Has unit tests with JUnit.
 
 - (2016) [GitHub Trending](https://github.com/AlbertVilaCalvo/Android-Udacity-GitHub-Trending) - An Android app that shows GitHub trending repositories. It implements a Sync Adapter that fetches data periodically and stores it into a Content Provider. It has a home-screen collection widget. It displays ads using AdMob.
 
