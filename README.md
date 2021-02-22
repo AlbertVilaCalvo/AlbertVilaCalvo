@@ -1,4 +1,4 @@
-## Hola! 👋
+# Hola! 👋
 
 Hi, I'm Albert, an experienced and passionate Android Developer, currently transitioning to React Native development.
 
