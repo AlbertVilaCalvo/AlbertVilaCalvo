@@ -1,6 +1,8 @@
 # Hola! 👋
 
-Hi, I'm Albert, an experienced and passionate Android Developer, currently transitioning to React Native development.
+Hi! I'm Albert, an experienced and passionate Android Developer, currently transitioning to React Native development.
+
+<br>
 
 ### [⚡ Personal Website ⚡](https://albert.vc/)
 
