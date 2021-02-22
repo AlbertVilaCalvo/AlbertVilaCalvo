@@ -1,15 +1,15 @@
 ### Hola! 👋
 
-[Personal Website](https://albert.vc/)
+## [⚡ Personal Website ⚡](https://albert.vc/)
 
 <p>
-  <a href="https://twitter.com/AlbertVilaCalvo" style="margin-right:16px">
+  <a href="https://twitter.com/AlbertVilaCalvo">
     <img src="img/twitter.svg" alt="Twitter" height="30px" width="30px" />
   </a>
-  <a href="https://www.linkedin.com/in/albertvilacalvo/" style="margin-right:16px">
+  <a href="https://www.linkedin.com/in/albertvilacalvo/">
     <img src="img/linkedin.svg" alt="LinkedIn" height="30px" width="30px" />
   </a>
-  <a href="https://stackoverflow.com/users/4034572/albert-vila-calvo" style="margin-right:8px">
+  <a href="https://stackoverflow.com/users/4034572/albert-vila-calvo">
     <img src="img/stackoverflow.svg" alt="StackOverflow" height="30px" width="30px" />
   </a>
 </p>
