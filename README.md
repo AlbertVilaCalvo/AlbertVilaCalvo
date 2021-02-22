@@ -1,7 +1,10 @@
-### Hola! 👋
+## Hola! 👋
+
+Hi, I'm Albert, an experienced and passionate Android Developer, currently transitioning to React Native development.
 
 ### [⚡ Personal Website ⚡](https://albert.vc/)
 
+<!-- icons from https://simpleicons.org -->
 <p>
   <a href="https://twitter.com/AlbertVilaCalvo">
     <img src="img/twitter.svg" alt="Twitter" height="30px" width="30px" />
