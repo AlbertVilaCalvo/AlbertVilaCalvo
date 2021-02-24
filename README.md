@@ -20,7 +20,6 @@ Hi! I'm Albert, an experienced and passionate Android Developer, currently trans
 </p>
 
 <br>
-<br>
 
 ## Sample Code
 
@@ -30,9 +29,9 @@ Hi! I'm Albert, an experienced and passionate Android Developer, currently trans
 
 ### React
 
-- (2021) [Would you rather?](https://github.com/AlbertVilaCalvo/React-Redux-Udacity-WouldYouRather) - A React app that uses Redux for state management, React Router and hooks. Hosted on Netlify.
+- (2021) [Would you rather?](https://github.com/AlbertVilaCalvo/React-Redux-Udacity-WouldYouRather) - A React app that uses Redux and Redux Thunk for state management, React Router and hooks. Hosted on Netlify.
 
-- (2018) [Neighborhood Map](https://github.com/AlbertVilaCalvo/React-Udacity-Neighborhood-Map) - A React app that displays locations using Google Maps.
+- (2018) [Neighborhood Map](https://github.com/AlbertVilaCalvo/React-Udacity-Neighborhood-Map) - A simple React app that displays locations using Google Maps.
 
 - (2018) [My Reads](https://github.com/AlbertVilaCalvo/React-Udacity-MyReads) - A simple React app that allows you to manage books. Uses a REST API.
 
@@ -46,7 +45,7 @@ Hi! I'm Albert, an experienced and passionate Android Developer, currently trans
 
 - (2016) [GitHub Trending](https://github.com/AlbertVilaCalvo/Android-Udacity-GitHub-Trending) - An Android app that shows GitHub trending repositories. It implements a Sync Adapter that fetches data periodically and stores it into a Content Provider. It has a home-screen collection widget. It displays ads using AdMob.
 
-- (2016) [Popular Movies](https://github.com/AlbertVilaCalvo/Android-Udacity-Popular-Movies) - An Android app that displays movies. Uses Dagger 2, Retrofit 2, RxJava 1 and AutoValue, among others. It caches data locally using an SQLite database and the libraries SQLBrite and SQLDelight, so that it can work fully offline.
+- (2016) [Popular Movies](https://github.com/AlbertVilaCalvo/Android-Udacity-Popular-Movies) - An Android app that displays movies. Uses Dagger 2, Retrofit 2, RxJava 1 and AutoValue, among others. It caches data locally using a SQLite database and the libraries SQLBrite and SQLDelight, so that it can work fully offline.
 
 
 <!--
