@@ -29,7 +29,9 @@ Hi! I'm Albert, an experienced and passionate Android Developer, currently trans
 
 ### React
 
-- (2021) [Would you rather?](https://github.com/AlbertVilaCalvo/React-Redux-Udacity-WouldYouRather) - A React app that uses Redux and Redux Thunk for state management, React Router and hooks. Hosted on Netlify.
+- (2021) [Hacker News Clone](https://github.com/AlbertVilaCalvo/React-HackerNews) - A clone of Hacker News, built with React, Hooks, React Router, Webpack and TypeScript.
+
+- (2021) [Would you rather?](https://github.com/AlbertVilaCalvo/React-Redux-Udacity-WouldYouRather) - A React app that uses Redux and Redux Thunk for state management, React Router and hooks.
 
 - (2018) [Neighborhood Map](https://github.com/AlbertVilaCalvo/React-Udacity-Neighborhood-Map) - A simple React app that displays locations using Google Maps.
 
