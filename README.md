@@ -25,6 +25,8 @@ Hi! I'm Albert, an experienced and passionate Android Developer, currently trans
 
 ### React Native
 
+- (2021) [Memory Game](https://github.com/AlbertVilaCalvo/React-Native-Memory-Game) - A memory game mobile app built with React Native, TypeScript and MobX for state management. Animations and gestures are implemented with Animated, Reanimated2 and PanResponder.
+
 - (2021) [Flashcards](https://github.com/AlbertVilaCalvo/React-Native-MobX-Udacity-Flashcards) - A React Native app that uses MobX for state management and React Navigation for routing.
 
 ### React
