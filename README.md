@@ -1,6 +1,6 @@
 # Hola! 👋
 
-Hi! I'm Albert, an experienced and passionate Android Developer, currently transitioning to React Native development.
+Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, with focus on Node.js and React Native.
 
 <br>
 
