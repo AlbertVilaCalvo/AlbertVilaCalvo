@@ -23,6 +23,10 @@ Hi! I'm Albert, an experienced and passionate Android Developer, currently trans
 
 ## Sample Code
 
+### Full Stack Node.js & React
+
+- (2022) [Recipe Manager](https://github.com/AlbertVilaCalvo/FullStack-Node-React-Recipe-REST) - A Full Stack app built with Express, React and PostgreSQL, using a REST API. Testing done with Jest and supertest.
+
 ### React Native
 
 - (2021) [Memory Game](https://github.com/AlbertVilaCalvo/React-Native-Memory-Game) - A memory game mobile app built with React Native, TypeScript and MobX for state management. Animations and gestures are implemented with Animated, Reanimated2 and PanResponder.
