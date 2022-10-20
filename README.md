@@ -2,7 +2,10 @@
 
 Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, with focus on Node.js and React Native.
 
-### [⚡ Check My Personal Website ⚡](https://albert.vc/)
+### [🌐 Website: albert.vc](https://albert.vc/)
+### [🧠 Wiki / Knowledge Base: albert.wiki](https://albert.wiki/)
+
+<br>
 
 <!-- icons from https://simpleicons.org -->
 <p>
