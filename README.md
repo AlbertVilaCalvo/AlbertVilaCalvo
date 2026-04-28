@@ -48,7 +48,7 @@ Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, w
 
 ### JavaScript
 
-- (2018) [Memory Game](https://github.com/AlbertVilaCalvo/JavaScript-Udacity-Memory-Game) - A funny memory game written in plain JavaScript.
+- (2018) [Memory Game](https://github.com/AlbertVilaCalvo/JavaScript-Udacity-Memory-Game) - A funny memory game written in plain JavaScript. Play the game [here](https://albert-javascript-udacity-memory-game.netlify.app/).
 
 ### Android
 
