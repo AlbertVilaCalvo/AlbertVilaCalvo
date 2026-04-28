@@ -9,9 +9,6 @@ Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, w
 
 <!-- icons from https://simpleicons.org -->
 <p>
-  <a href="https://twitter.com/AlbertVilaCalvo">
-    <img src="img/twitter.svg" alt="Twitter" height="30px" width="30px" />
-  </a>
   <a href="https://www.linkedin.com/in/albertvilacalvo/">
     <img src="img/linkedin.svg" alt="LinkedIn" height="30px" width="70px" />
   </a>
