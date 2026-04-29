@@ -1,6 +1,6 @@
-# Hola! 👋
+# Hi! Hola! 👋
 
-Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, with focus on Node.js and React Native.
+Hi, I'm Albert, a Full Stack Developer focused on building scalable, cloud-native systems with Node.js, React, AWS and Kubernetes, evolved from years of experience building mobile apps in the Android and React Native ecosystems.
 
 <br>
 
