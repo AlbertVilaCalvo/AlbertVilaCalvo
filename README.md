@@ -9,13 +9,13 @@ Hi, I'm Albert, a Full Stack Developer focused on building scalable, cloud-nativ
 <!-- Website and Wiki icons from https://www.svgrepo.com -->
 <!-- StackOverflow and LinkedIn icons from https://simpleicons.org -->
 
-<a href="https://albert.vc/"><img src="img/website-click-svgrepo-com.svg" alt="Personal Website / Portfolio" height="25px" width="25px" />&nbsp;&nbsp;<span>Website / Portfolio</span></a>
+<a href="https://albert.vc/"><img src="img/website-click-svgrepo-com.svg" alt="Personal Website / Portfolio" height="25" width="25" />&nbsp;&nbsp;<span>Website / Portfolio</span></a>
 
-<a href="https://albert.wiki/"><img src="img/brain-illustration-12-svgrepo-com.svg" alt="Wiki / Knowledge Base" height="25px" width="25px" />&nbsp;&nbsp;<span>Wiki / Knowledge Base</span></a>
+<a href="https://albert.wiki/"><img src="img/brain-illustration-12-svgrepo-com.svg" alt="Wiki / Knowledge Base" height="25" width="25" />&nbsp;&nbsp;<span>Wiki / Knowledge Base</span></a>
 
-<a href="https://www.linkedin.com/in/albertvilacalvo/"><img src="img/linkedin.svg" alt="LinkedIn" height="25px" width="25px" />&nbsp;&nbsp;<span>LinkedIn</span></a>
+<a href="https://www.linkedin.com/in/albertvilacalvo/"><img src="img/linkedin.svg" alt="LinkedIn" height="25" width="25" />&nbsp;&nbsp;<span>LinkedIn</span></a>
 
-<a href="https://stackoverflow.com/users/4034572/albert-vila-calvo"><img src="img/stackoverflow.svg" alt="StackOverflow" height="25px" width="25px" />&nbsp;&nbsp;<span>StackOverflow</span></a>
+<a href="https://stackoverflow.com/users/4034572/albert-vila-calvo"><img src="img/stackoverflow.svg" alt="StackOverflow" height="25" width="25" />&nbsp;&nbsp;<span>StackOverflow</span></a>
 
 <br>
 
@@ -42,7 +42,7 @@ _Stuff I've built to learn various technologies_
 
 - (2021) [Memory Game](https://github.com/AlbertVilaCalvo/React-Native-Memory-Game) - A memory game mobile app built with React Native, TypeScript and MobX for state management. Animations and gestures are implemented with Animated, Reanimated and PanResponder. View Memory Game app demo on [YouTube](https://www.youtube.com/watch?v=2ueXk3jBcOY), or download it from Play Store:
 
-<a href="https://play.google.com/store/apps/details?id=com.albertvila.memorygame"><img src="img/GetItOnGooglePlay_Badge_Web_color_English.svg" alt="Get it on Google Play" title="Download the app on Google Play" width="155px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.albertvila.memorygame"><img src="img/GetItOnGooglePlay_Badge_Web_color_English.svg" alt="Get it on Google Play" title="Download the app on Google Play" width="155"></a>
 
 - (2021) [Flashcards](https://github.com/AlbertVilaCalvo/React-Native-MobX-Udacity-Flashcards) - A React Native app that uses MobX for state management and React Navigation for routing.
 
