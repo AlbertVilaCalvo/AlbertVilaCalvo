@@ -19,6 +19,12 @@ Hi, I'm Albert, a Full Stack Developer focused on building scalable, cloud-nativ
 
 <br>
 
+## Contact
+
+Please feel free to reach out to me if you want to chat about anything related to software development. You can find me on [LinkedIn](https://www.linkedin.com/in/albertvilacalvo/).
+
+<br>
+
 ## Code
 
 _Stuff I've built to learn various technologies_
