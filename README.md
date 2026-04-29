@@ -2,16 +2,20 @@
 
 Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, with focus on Node.js and React Native.
 
-### [🌐 Website: albert.vc](https://albert.vc/)
-### [🧠 Wiki / Knowledge Base: albert.wiki](https://albert.wiki/)
-
 <br>
 
-<!-- icons from https://simpleicons.org -->
-<p>
-  <a href="https://www.linkedin.com/in/albertvilacalvo/"><img src="img/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="30px" width="30px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/4034572/albert-vila-calvo"><img src="img/stackoverflow.svg" alt="StackOverflow" title="StackOverflow" height="30px" width="30px" /></a>
-</p>
+## Links
+
+<!-- Website and Wiki icons from https://www.svgrepo.com -->
+<!-- StackOverflow and LinkedIn icons from https://simpleicons.org -->
+
+<a href="https://albert.vc/"><img src="img/website-click-svgrepo-com.svg" alt="Personal Website / Portfolio" height="25px" width="25px" />&nbsp;&nbsp;<span>Website / Portfolio</span></a>
+
+<a href="https://albert.wiki/"><img src="img/brain-illustration-12-svgrepo-com.svg" alt="Wiki / Knowledge Base" height="25px" width="25px" />&nbsp;&nbsp;<span>Wiki / Knowledge Base</span></a>
+
+<a href="https://www.linkedin.com/in/albertvilacalvo/"><img src="img/linkedin.svg" alt="LinkedIn" height="25px" width="25px" />&nbsp;&nbsp;<span>LinkedIn</span></a>
+
+<a href="https://stackoverflow.com/users/4034572/albert-vila-calvo"><img src="img/stackoverflow.svg" alt="StackOverflow" height="25px" width="25px" />&nbsp;&nbsp;<span>StackOverflow</span></a>
 
 <br>
 
