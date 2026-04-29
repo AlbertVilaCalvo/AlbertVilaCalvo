@@ -10,10 +10,10 @@ Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, w
 <!-- icons from https://simpleicons.org -->
 <p>
   <a href="https://www.linkedin.com/in/albertvilacalvo/">
-    <img src="img/linkedin.svg" alt="LinkedIn" height="30px" width="70px" />
+    <img src="img/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="30px" width="70px" />
   </a>
   <a href="https://stackoverflow.com/users/4034572/albert-vila-calvo">
-    <img src="img/stackoverflow.svg" alt="StackOverflow" height="30px" width="30px" />
+    <img src="img/stackoverflow.svg" alt="StackOverflow" title="StackOverflow" height="30px" width="30px" />
   </a>
 </p>
 
