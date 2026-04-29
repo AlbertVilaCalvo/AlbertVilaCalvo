@@ -19,11 +19,18 @@ Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, w
 
 <br>
 
-## Sample Code
+## Code
 
-### Full Stack Node.js & React
+_Stuff I've built to learn various technologies_
 
-- (2022) [Recipe Manager](https://github.com/AlbertVilaCalvo/FullStack-Node-React-Recipe-REST) - A Full Stack app built with Express, React and PostgreSQL, using a REST API. Testing done with Jest and supertest.
+### Full Stack, Cloud & DevOps
+
+- (2022-2026) [Recipe Manager](https://github.com/AlbertVilaCalvo/RecipeManager) - A Full Stack app built with Node.js, React, AWS, Kubernetes and Terraform.
+  - Full-Stack TypeScript: React SPA and Node.js (Express) REST API.
+  - AWS: EKS, RDS (PostgreSQL), CloudFront, ECR, ACM, Route53, S3, Secrets Manager.
+  - IaC: AWS infrastructure provisioned with Terraform.
+  - Kubernetes: Karpenter, Load Balancer Controller, ExternalDNS, External Secrets Operator and Pod Identity.
+  - DevOps & GitOps: CI/CD via GitHub Actions and Argo CD.
 
 ### React Native
 
@@ -49,7 +56,7 @@ Hi! I'm Albert, an experienced and passionate Full Stack JavaScript Developer, w
 
 ### Android
 
-- (2020) [Coupons](https://github.com/AlbertVilaCalvo/Android-Coupons-Kotlin-Coroutines) - A simple Android app that I did for a job interview process, using Kotlin, Coroutines for threading and Koin for dependency injection. Has unit tests with JUnit.
+- (2020) [Coupons](https://github.com/AlbertVilaCalvo/Android-Coupons-Kotlin-Coroutines) - A simple Android app that I did for a job interview process, using Kotlin, Coroutines for threading and Koin for dependency injection. Unit tests with JUnit.
 
 - (2016) [GitHub Trending](https://github.com/AlbertVilaCalvo/Android-Udacity-GitHub-Trending) - An Android app that shows GitHub trending repositories. It implements a Sync Adapter that fetches data periodically and stores it into a Content Provider. It has a home-screen collection widget. It displays ads using AdMob.
 
